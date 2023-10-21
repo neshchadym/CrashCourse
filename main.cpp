@@ -1,8 +1,8 @@
 #include <conio.h>
 #include <string.h>
-if () {
-}
 int main () {
+	if () {
+}
 	return 0;
 }
 
